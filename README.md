@@ -1,5 +1,6 @@
 ### Cesar
-- finale.txt - Итог
+- finale_mono.txt - Итог с монограммами
+- finale_bi.txt - Итог с биграммами
 - orig.txt - Исходник
 - shifr.txt - Зашифрованный
 ### update 01.10.21
